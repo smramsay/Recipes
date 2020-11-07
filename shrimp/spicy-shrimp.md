@@ -1,7 +1,6 @@
 Spicy Shrimp
 ============
 
-
 Ingredients
 -----------
 
@@ -24,10 +23,10 @@ Instructions
 1. Season shrimp with 1/2 tsp of salt.
 2. Heat 2 tbsp of oil in a large sauce pan on high.
 3. Add shrimp, garlic, chilies, and ginger.
-4. Saute, tossing regularly, until shrimp brown; about 3 minutes.
+4. Saute, tossing regularly, until shrimp brown. (3m)
 5. Transfer to plate.
 6. Add 2 tbsp of oil, the scallions, and 1/4 tsp salt to the pan.
-7. Saute until scallions wilt and begin to brown; about 2 min.
+7. Saute until scallions wilt and begin to brown. (2m)
 8. Return shrimp to pan and toss well for 30 seconds.
 9. Remove pan from heat.
 10. Stir in cilantro, lemon juice, and the remaining 1 tbsp of oil.
