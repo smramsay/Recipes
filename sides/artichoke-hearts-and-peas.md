@@ -4,19 +4,19 @@ Artichoke Hearts and Peas
 Ingredients
 -----------
 
-4 Servings
+3 Servings
 
 | Ingredient       | Amount  | Notes                     |
 |:-----------------|:--------|:--------------------------|
-| Artichoke Hearts | 9 oz    | frozen                    |
-| Peas             | 10 oz   | frozen, baby              |
-| Olive oil        | 3 tbsp  |                           |
+| Artichoke Hearts | 8 oz    | frozen                    |
+| Peas             | 9 oz    | frozen, baby              |
+| Olive oil        | 2 tbsp  |                           |
 | Onion            | 1/4 cup | chopped                   |
-| Garlic           | 1 tbsp  | chopped                   |
+| Garlic           | 1 clove | chopped                   |
 | Flour            | 2 tsp   | all-purpose               |
 | Chicken stock    | 3/4 cup | low-sodium                |
 | Thyme            | 2 tsp   | fresh, chopped; or savory |
-| Salt             | 3/4 tsp |                           |
+| Salt             | 1/2 tsp |                           |
 | Pepper, black    | 1/2 tsp | freshly ground            |
 
 
