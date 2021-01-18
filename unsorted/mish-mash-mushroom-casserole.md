@@ -1,5 +1,5 @@
 Mish-Mash Mushroom Casserole
-===================
+============================
 
 Dad's last-minute college-days casserole
 
