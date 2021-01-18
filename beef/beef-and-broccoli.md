@@ -45,6 +45,8 @@ Ingredients
 | Cornstarch | 2 tsp  |       |
 | Water      | 1 tbsp | cold  |
 
+\pagebreak
+
 Instructions
 ------------
 
@@ -58,7 +60,7 @@ Instructions
 **Broccoli**
 
 1. Heat a couple cups of salted water in a wok over high heat until boiling.
-2. Add broccoli, cover and cook until tender-crisp. (1m)
+2. Add broccoli, cover and cook until tender-crisp. (5m)
 3. Drain and transfer to plate to air-dry.
 
 **Stir-Fry**
