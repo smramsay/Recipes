@@ -8,7 +8,7 @@ Ingredients
 
 | Ingredient           | Amount    | Notes       |
 |:---------------------|:----------|:------------|
-| Eggs                 | 12        |             |
+| Eggs                 | 12        | ~18g / yolk |
 | Mayonnaise           | 1/2 cup   |             |
 | Dijon mustard        | 1 1/2 tsp |             |
 | Yellow mustard       | 1 1/2 tsp |             |
