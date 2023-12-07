@@ -23,8 +23,10 @@ Ingredients
 Instructions
 ------------
 
+0. Take butter out of fridge 10-15 minutes before mixing or cut into 1-inch slices straight from fridge.
 1. Whisk together flour, baking soda, and baking powder.
 2. In stand mixer, cream together sugars, butter, eggs, and vanilla
-3. Mix in chocolate chips
-4. Divide onto parchment lined baking sheet.
-5. Bake at 350 °F until light brown.
+3. Slowly mix in dry mixture.
+4. Gently mix in chocolate chips until incorporated; don't over mix
+5. Divide onto parchment lined baking sheet.
+6. Bake at 350 °F until light brown.
