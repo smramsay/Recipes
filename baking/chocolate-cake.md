@@ -4,15 +4,17 @@ Chocolate Cake
 Ingredients
 -----------
 
+2 8-inch rounds
+
 | Ingredients        | Amount   | Notes          |
 |:-------------------|:---------|:---------------|
 | Flour, all-purpose | 2 cups   | all-purpose    |
 | Baking powder      | 2 tsp    |                |
 | Baking soda        | 2 tsp    |                |
+| Butter             | 6 tbsp   | unsalted       |
 | Salt               | 1 tsp    |                |
 | Sugar              | 2 cups   |                |
 | Chocolate          | 4 ounces | unsweetened    |
-| Butter             | 6 tbsp   | unsalted       |
 | Vanilla extract    | 1 tsp    |                |
 | Eggs               | 2        | lightly beaten |
 
