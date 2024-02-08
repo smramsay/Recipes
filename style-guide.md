@@ -4,7 +4,7 @@ Style Guide
 Basics
 ------
 
-Every recipe should start from the format given in *recipe-template.md*.
+Every recipe should start from the format given in `recipe-template.md`.
 The filename is the recipe name replacing Unicode characters with their ASCII simplifications.
 Technically we're using Pandoc markdown for the tables, but try to stick to basic Markdown syntax.
 Look to existing recipes for examples.
@@ -25,7 +25,7 @@ If there are multiple distinct parts of a dish, feel free to separate them into 
 Add a **bold** heading above each one stating what the part is, i.e. **Sauce** or **Spice Mix**.
 
 The table should be aligned correctly using spaces.
-The Python script *markdown-table-format.py* can help with that.
+The Python script `markdown-table-format.py` can help with that.
 
 Instructions
 ------------
@@ -33,7 +33,7 @@ Instructions
 Instructions and other lines are **strongly** discouraged from being longer than 114 characters as well.
 Instructions should give a single, clear step.
 Adding multiple ingredients to a pan at the same time? One step.
-Adding an ingredient and cooking before adding the next? Two steps.
+Adding an ingredient and cooking before adding the next ingredient? Two steps.
 
 Similar to the ingredients, you can separate distinct parts of the dish into their own instruction lists.
 
