@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 pandoc -o /tmp/recipe.pdf \
-	--pdf-engine xelatex \
+	--pdf-engine pdflatex \
 	-H ${HOME}/documents/recipes/custom-preamble.tex \
 	-V geometry:a4paper \
 	-V geometry:margin=0.75in \
