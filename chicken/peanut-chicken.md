@@ -31,3 +31,4 @@ Instructions
 5. Pour marinated chicken and sauce into baking pan.
 6. Bake for 20 to 30 minutes.
 7. Broil pan for 5 minutes to crisp top.
+   Really get it crisp!
