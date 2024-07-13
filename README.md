@@ -1,6 +1,8 @@
 Recipes
 =======
 
+My collection of recipes in a format I find easier to read and follow.
+
 Basics
 ------
 
@@ -8,8 +10,6 @@ Every recipe should start from the format given in `recipe-template.md`.
 The filename is the recipe name replacing Unicode characters with their ASCII simplifications.
 Technically we're using Pandoc markdown for the tables, but try to stick to basic Markdown syntax.
 Look to existing recipes for examples.
-Just try to do your best and I can fix it up before merging.
-Everything is to be in English, because my German is only slightly better than every other language.
 
 Ingredients
 -----------
