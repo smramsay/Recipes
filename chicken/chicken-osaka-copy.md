@@ -37,15 +37,18 @@ N Servings
 
 ### Mustard Dipping Sauce
 
+1.5 cups
+
 | Ingredient        | Amount  | Notes |
 |:------------------|:--------|:------|
-| Lemon juice       | 1/2 cup | fresh |
-| Vegetable oil     | 1/3 cup |       |
+| Lemon juice       | 8 tbsp  | fresh |
+| Vegetable oil     | 5 tbsp  |       |
 | Soy sauce         | 3 tbsp  |       |
 | Sugar             | 3 tbsp  |       |
 | Coleman's Mustard | 2 tbsp  |       |
 | Sesame oil        | 2 tbsp  |       |
 | White vinegar     | 2 tbsp  |       |
+
 
 Instructions
 ------------
