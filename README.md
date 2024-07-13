@@ -1,5 +1,5 @@
-Style Guide
-===========
+Recipes
+=======
 
 Basics
 ------
@@ -43,14 +43,3 @@ Keep commentary to an absolute minimum as well.
 
 Estimated time for an instruction can be given in parentheses at the end of it, i.e. (3m), (45m - 1h), (30s).
 Don't give an overall time for the recipe as that is never correct.
-
-Tags
-----
-
-Instead of arbitrarily sorting recipes into folders, search tags are used.
-The line containing search tags starts with "Tags: ".
-It is the last line in the file.
-This is the only line without length restrictions.
-This line contains comma-separated words describing the dish.
-It should contain the **main** ingredient only, i.e. 'beef', 'salmon', 'tofu'.
-Tag examples: 'vegetarian', 'salad', 'Thai', 'sauce', 'pasta', 'main', 'side'
