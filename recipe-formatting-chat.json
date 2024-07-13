@@ -1,0 +1,18 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "Recipe Template:\n\nTitle\n=====\n\nShort description of dish\n\nIngredients\n-----------\n\nN Servings\n\n| Ingredient | Amount | Notes |\n|:-----------|:-------|:------|\n|            |        |       |\n\nInstructions\n------------\n\n1. Step\n2. Step\n3. Step"
+    },
+    {
+        "role": "user",
+        "content": "Peanut Chicken\n==============\n\nChicken chunks cooked in peanut butter sauce.\n\nIngredients\n-----------\n\n3 Servings\n\n| Ingredient       | Amount  | Notes\n|:-----------------|:--------|:----------------------------|\n| Chicken          | 1 pound | boneless, bite-sized chunks |\n| Onion            | 1/2     | chopped                     |\n| Peanut Butter    | 2 tbsp  |                             |\n| Garlic           | 1 clove |                             |\n| Lemon Juice      | 2 tbsp  |                             |\n| Soy Sauce        | 2 tbsp  |                             |\n| Brown Sugar      | 1 tbsp  |                             |\n| Vegetable Oil    | 1 tbsp  |                             |\n| Hot Pepper Sauce | 1 pinch |                             |\n\n\nInstructions\n------------\n\n1. Blend everything but the chicken together\n2. Place chicken and sauce mix in plastic bag.\n3. Marinate, preferably overnight.\n4. Heat oven to 350 \u00b0F.\n5. Pour marinated chicken and sauce into baking pan.\n6. Bake for 20 to 30 minutes.\n7. Broil pan for 5 minutes to crisp top.\n   Really get it crisp!"
+    },
+    {
+        "role": "user",
+        "content": "Recipe instructions should be a single, clear step given concisely in one or two sentences.\nIngredient names should just be the name, not how they are prepared.\nEstimated time for an instruction can be placed at the end, i.e. (3m), (30s), (45m - 1h)"
+    }
+]
