@@ -1,8 +1,6 @@
 Chocolate Chip Cookies
 ======================
 
-Kristin's patient's cookies
-
 Ingredients
 -----------
 
