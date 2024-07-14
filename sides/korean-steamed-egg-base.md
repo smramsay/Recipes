@@ -1,5 +1,5 @@
-Title
-=====
+Korean Steamed Egg Base
+=======================
 
 Quick and simple egg dish
 
@@ -8,12 +8,12 @@ Ingredients
 
 2 Servings
 
-| Ingredient | Amount | Notes |
-|:-----------|:-------|:------|
-| Eggs | 4 | large |
-| Water | 3/4 cup | |
-| Scallion | 1 | chopped |
-| Salt | 1 tsp | kosher |
+| Ingredient | Amount  | Notes   |
+|:-----------|:--------|:--------|
+| Eggs       | 4       | large   |
+| Water      | 3/4 cup |         |
+| Scallion   | 1       | chopped |
+| Salt       | 1 tsp   | kosher  |
 
 Instructions
 ------------
