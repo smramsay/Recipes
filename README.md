@@ -7,6 +7,8 @@ Basics
 ------
 
 Every recipe should start from the format given in `recipe-template.md`.
+You can use the provided chat with an LLM API or probably just throw the whole file at it along with the recipe and tell it to format it like the example.
+Just double check the measurements and values for hallucinations.
 The filename is the recipe name replacing Unicode characters with their ASCII simplifications.
 Technically we're using Pandoc markdown for the tables, but try to stick to basic Markdown syntax.
 Look to existing recipes for examples.
