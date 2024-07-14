@@ -1,5 +1,5 @@
-Title
-=====
+Raspberry Filling
+=================
 
 A jammy filling for cakes
 Use with a buttercream base layer and retaining wall around cake layer edge
@@ -11,14 +11,14 @@ Ingredients
 
 1 Heaping Cup
 
-| Ingredient | Amount | Notes |
-|:-----------|:-------|:------|
-| Water | 1.5 tbsp | |
-| Cornstarch | 1.5 tbsp | |
-| Raspberries | 340g | frozen or fresh |
-| Sugar | 67g | |
-| Lemon juice | 1 tsp | |
-| Vanilla extract | 1/2 tsp  | |
+| Ingredient      | Amount   | Notes           |
+|:----------------|:---------|:----------------|
+| Water           | 1.5 tbsp |                 |
+| Cornstarch      | 1.5 tbsp |                 |
+| Raspberries     | 340g     | frozen or fresh |
+| Sugar           | 67g      |                 |
+| Lemon juice     | 1 tsp    |                 |
+| Vanilla extract | 1/2 tsp  |                 |
 
 Instructions
 ------------
